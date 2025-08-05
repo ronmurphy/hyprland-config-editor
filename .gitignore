@@ -1,0 +1,25 @@
+# Temporary files
+/tmp/*
+*.tmp
+*.log
+
+# Backup files
+*.backup.*
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime logs
+*.qslog
+
+# User-specific temp files
+/tmp/hyprland-config-editor-*.txt
+EOF
